@@ -143,7 +143,7 @@ To run the project, follow these steps:
 _First, begin by downloading the repository. Open your console, navigate to the directory where you'd like to save the project, and execute the following command:_
 
 ```
-git clone https://github.com/eddiedibs/chicksgold-frontend
+git clone https://github.com/eddiedibs/chicksgold-water-jug
 ```
 
 _Next, install the required project dependencies by running the following command:_
