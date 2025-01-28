@@ -21,6 +21,11 @@ This App allows for three inputs, which will be X,Y and Z.
 The app is intended to return the values on the screen.
 
 
+![image](https://github.com/user-attachments/assets/b83c630e-cda9-40f5-b763-44cba2ecffd3)
+
+
+
+
 ### Algorithm 📋
 
 To ensure the correct operation of the algorithm, all values inserted in the inputs must meet specific conditions: each value must be a positive integer greater than zero. If any of the values are less than or equal to zero, or are not integers, an error message will be generated stating: 'All inputs must be positive integers'.
